@@ -1,11 +1,11 @@
 about:
   name: about
 
-tag2:
+project-euler:
   name: project-euler
 
-tag3:
+math:
   name: math
 
-tag4:
+other-distractions:
   name: other-distractions
