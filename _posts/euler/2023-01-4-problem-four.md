@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Problem 4
+title: "Problem 4"
 tag: project-euler
 ---
 
