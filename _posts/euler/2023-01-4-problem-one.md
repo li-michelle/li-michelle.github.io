@@ -19,5 +19,3 @@ for i in range(1000):
 print(three_five_sum)
 ```
 
-**The Solution**
->! 233168

@@ -31,5 +31,3 @@ Again, an old solution, but one that uses the increment syntax for range(). Uses
 
 I used an array because it would just be a lot more memory to check and then update, would make more sense to just store it and then max the array value at the end. 
 
-**The Solution**
-6857

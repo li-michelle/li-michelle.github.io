@@ -23,5 +23,3 @@ print(max_palindrome)
 ```
 A fun one, that taught me about nested for loops. 
 
-**The Solution**
-906609

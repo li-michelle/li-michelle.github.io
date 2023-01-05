@@ -33,5 +33,3 @@ This code and its solution was actually written quite a while ago by me(maybe a 
 
 This solution honestly can be streamlined quite a lot and I may revisit this problem to try and see if I can get the line count down. 
 
-**The Solution**
-4613732
