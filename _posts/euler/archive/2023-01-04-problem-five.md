@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Problem 5"
-tag: project-euler 
+tag: archive 
 --- 
 **The Problem**
 
