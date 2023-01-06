@@ -28,4 +28,4 @@ print(difference)
 
 **Thoughts**
 
-This took me an embarassingly long amount of time and I don't want to talk about it(it took a long time because I forgot how for loop ranges work so I wasn't actually adding 100 to any of my sums and I felt very dumb when I discovered. 
+This took me an embarassingly long amount of time and I don't want to talk about it(it took a long time because I forgot how for loop ranges work so I wasn't actually adding 100 to any of my sums and I felt very dumb when I discovered). 
