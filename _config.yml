@@ -1,4 +1,4 @@
-permalink: /:tag/:title
+permalink: /:title
 url: #Your url here
 baseurl: /project
 
