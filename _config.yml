@@ -8,7 +8,7 @@ logo: "assets/img/avatar.png"
 background: "assets/img/background-blue.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://li-michelle.github.io/this-better-work
+url: https://li-michelle.github.io/
 
 # Jekyll
 permalink: /:title/
