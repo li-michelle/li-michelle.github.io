@@ -1,14 +1,14 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: Mica Li
+bio: "fourth year math @ UCSD"
+description: "academic website"
 reading_time: true
 words_per_minute: 200
-logo: "assets/img/logo.png"
-background: "assets/img/moonrise-background.jpg"
+logo: "assets/img/avatar.png"
+background: "assets/img/background-blue.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: https://li-michelle.github.io/this-better-work
 
 # Jekyll
 permalink: /:title/
@@ -37,19 +37,19 @@ sass:
 #ad-slot:
 #bing-verify:
 #email:
-twitter: username
-facebook: username
-github-url: username
-#stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#twitter: username
+#facebook: username
+github-url: li-michelle
+stackoverflow: 1489558/mica-li
 #linkedin: username
 #xing: username
-instagram: username
+instagram: mica.y.li
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+steam: shiny-rock
 #dribbble: username
 #youtube: username
 #youtube-channel: channel

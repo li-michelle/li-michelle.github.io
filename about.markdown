@@ -1,38 +1,31 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
+title: About
+tags: [about]
+date: 2025-01-01
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## About Me
+I am a fourth year pure math major at UCSD. I am broadly interested in differential geometry and low-dimensional topology. I am particularly interested in using algebraic techniques to solve geometric problems. 
 
-## Features
+## Some Non-Academic Things About Me 
+In my free time I like to read, write, knit, and weight-lift. 
+Some of my favorite books: 
+- *The Stranger* by Albert Camus 
+- *A Little Life* by Hanyah Yanagihara 
+- *On Earth we are Briefly Gorgeous* by Ocean Vuong 
+- *Hamlet* by William Shakespeare
+- *Beloved* by Toni Morrison
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
-
-## Preview
+Some of my favorite films: 
+- *Fury* directed by David Ayer 
+- *Dune 2* directed by Denis Villeneuve 
+- *Call Me By Your Name* directed by Luca Guadagnino 
+- *Dunkirk* directed by Christopher Nolan
+- *Oppenheimer* directed by Christopher Nolan
 
 {% capture images %}
-https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+https://github.com/li-michelle/files/releases/download/file/about-cover.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
+{% include gallery images=images caption="Me!" cols=1 %}
